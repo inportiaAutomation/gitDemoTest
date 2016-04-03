@@ -1,0 +1,4 @@
+This is sample file.
+Just to test out git repo.
+
+- Inportia Batch 2
